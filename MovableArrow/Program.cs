@@ -15,12 +15,12 @@ namespace MovableArrow
             {
                 while (Console.ReadKey().Key == ConsoleKey.LeftArrow)
                 {
-                    posX--;
+                    posX -= 2;
                     PosChanging("←");
                 }
                 while (Console.ReadKey().Key == ConsoleKey.RightArrow)
                 {
-                    posX++;
+                    posX += 2;
                     PosChanging("→");
                 }
                 while (Console.ReadKey().Key == ConsoleKey.UpArrow)
@@ -100,7 +100,12 @@ namespace MovableArrow
             }
             catch
             {
-                Console.Write("YANDINIZ");
+                Console.WriteLine("YANDINIZ");
+                Console.WriteLine("Enter'a basarak yeniden deneyebilirsiniz.");
+                Console.ReadLine();
+                posX = 60;
+                posY = 20;
+                Main();
             }
             
         }

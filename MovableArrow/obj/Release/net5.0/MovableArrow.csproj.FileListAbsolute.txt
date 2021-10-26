@@ -1,0 +1,16 @@
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\MovableArrow.exe
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\MovableArrow.deps.json
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\MovableArrow.runtimeconfig.json
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\MovableArrow.runtimeconfig.dev.json
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\MovableArrow.dll
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\ref\MovableArrow.dll
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\bin\Release\net5.0\MovableArrow.pdb
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.csproj.AssemblyReference.cache
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.AssemblyInfoInputs.cache
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.AssemblyInfo.cs
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.csproj.CoreCompileInputs.cache
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.dll
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\ref\MovableArrow.dll
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.pdb
+C:\Users\birol\source\repos\MovableArrow\MovableArrow\obj\Release\net5.0\MovableArrow.genruntimeconfig.cache
