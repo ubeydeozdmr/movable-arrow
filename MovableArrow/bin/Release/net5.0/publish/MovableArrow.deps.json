@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MovableArrow/1.0.0": {
+        "runtime": {
+          "MovableArrow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovableArrow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
